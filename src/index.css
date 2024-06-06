@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Baloo';
+  src: url('./Assets/fonts/baloo/Baloo-Regular.ttf');
+}
