@@ -6,6 +6,7 @@
 - [Principales dépendances](#principales-dépendances)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
+- [Contributeurs](#contributeurs)
 
 <br>
 
@@ -67,3 +68,8 @@ Avant de commencer l'installation et l'utilisation de ce projet, assurez-vous qu
 2. Installez les dépendances : `npm install`
 3. Installez les dépendances : `npm start`
 4. Ouvrez http://localhost:3000 pour voir l'application dans votre navigateur. La page se rechargera automatiquement si vous apportez des modifications au code source.
+
+<br>
+
+## Contributeurs
+Kévin Terrier, Curtis Marty-Jackson, Alexis Carrere, Adam Queval.
